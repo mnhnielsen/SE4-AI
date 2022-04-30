@@ -35,7 +35,3 @@ def run():
 
 
 run()
-
-# 2.3: We see the actions and the percept when entering a location and a state
-# 3: 1
-# 4: T³?
